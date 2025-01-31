@@ -1,6 +1,7 @@
 # Deep Thought CS50P Week 0 Problem 2
 
 Prompt:
+https://cs50.harvard.edu/python/2022/psets/1/deep/
 
 Steps:
 1) Prompt the user with the prompt provided and store the input in a variable 

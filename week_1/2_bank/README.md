@@ -1,6 +1,7 @@
 # Home Federal Savings banke Week 1 Problem 2
 
 Prompt:
+https://cs50.harvard.edu/python/2022/psets/1/bank/ 
 
 Steps:
 1) Prompt the user for their greeting and store this input as a variable
