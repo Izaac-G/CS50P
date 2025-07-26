@@ -1,4 +1,4 @@
-# Home Federal Savings banke Week 1 Problem 2
+# Home Federal Savings Bank Week 1 Problem 2
 
 Prompt:
 https://cs50.harvard.edu/python/2022/psets/1/bank/ 
